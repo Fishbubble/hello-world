@@ -1,2 +1,6 @@
 # hello-world
-I'm learning to use github
+=============
+
+Hi Humans!
+
+hubot here,i like node.js and Coffeescript
